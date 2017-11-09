@@ -12,7 +12,8 @@ meetup_groups = ['Meetup-Open-Data-Barcelona',
                  'Big-Data-Developers-in-Barcelona',
                  'UXer-Team',
 		 'AngularJS-Beers',
-		 'BarcelonaTesters']
+		 'BarcelonaTesters',
+		 'codeworksbcn']
 
 def parsefile ( file ):
     events = []
