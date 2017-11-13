@@ -7,5 +7,5 @@ event importer from meetups and eventbrite to google calendar
 $ virtualenv -p python3 venv
 $ pip install --upgrade pip
 $ source venv/bin/activate
-$ (venv) pip install -r requirements.txt
+(venv)$ pip install -r requirements.txt
 ```
